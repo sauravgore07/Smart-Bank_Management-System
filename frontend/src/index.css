@@ -1,0 +1,12 @@
+
+.loan-interest-rate {
+  color: #000000 !important;
+  -webkit-text-fill-color: #000000 !important;
+  background-color: #f2f2f2 !important;
+  opacity: 1 !important;
+}
+
+.loan-interest-rate::placeholder {
+  color: #000000 !important;
+  -webkit-text-fill-color: #000000 !important;
+}
